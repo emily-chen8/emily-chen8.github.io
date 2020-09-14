@@ -2,7 +2,7 @@
 
 This repository is your starting point for the assignment and includes the instructions below. 
 
-Link to GitHub pages website: `[insert your hyperlink here]`
+Link to GitHub pages website: `emily-chen8.github.io`
 
 
 ## Aim of the Assignment:
